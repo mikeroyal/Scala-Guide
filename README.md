@@ -6,7 +6,14 @@
 
 #### A guide covering Scala language including the applications and tools that will make you a better and more efficient Scala developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="">
+  <br />
+</p>
+
+# Scala Learning Resources
 
 [Scala](https://scala-lang.org/) is a combination of object-oriented and functional programming in one concise, high-level language. Scala's static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to huge ecosystems of libraries.
 
@@ -36,7 +43,7 @@
 
 [Top Scala Courses from Udemy](https://www.udemy.com/topic/scala/)
 
-## Tools
+# Scala Tools and Frameworks
 
 [Apache Spark](https://spark.apache.org/) is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.
 
@@ -71,3 +78,13 @@
 [Gatling](https://gatling.io/) is a load test tool. It officially supports HTTP, WebSocket, Server-Sent-Events and JMS.
 
 [Scalatra](https://scalatra.org/) is a tiny Scala high-performance, async web framework, inspired by [Sinatra](https://www.sinatrarb.com/).
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Scala-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
