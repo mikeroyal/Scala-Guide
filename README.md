@@ -45,6 +45,32 @@
 
 # Scala Tools and Frameworks
 
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+[Code Server](https://coder.com/) is a tool that allows you to run [VS Code](https://code.visualstudio.com/) on any machine anywhere and access it in the browser.
+
+[Scala Syntax (official)](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) is an extension for Visual Studio Code that provides syntax highlighting for Scala 2 and Scala 3 source files.
+
+[ScalaScript](https://marketplace.visualstudio.com/items?itemName=peter-cherna.scalascript) is an extension for Visual Studio Code that provides provides for [Scala Inc](https://www.scala.com/) ScalaScript digital signage scripting language.
+
+[Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) is the AI code completion tool trusted by millions of developers to code faster with fewer errors. Whether you are a new dev or a seasoned pro, working solo or part of a team, Tabnine will help push your productivity to new heights while cutting your QA time.
+
+[IntelliJ IDEA Scala plugin](https://plugins.jetbrains.com/plugin/1347-scala) is a tool that extends IntelliJ IDEA’s toolset with support for Scala, SBT, Scala.js, Hocon, and Play Framework. Support for Scala, SBT and Hocon is available for free in IntelliJ IDEA Community Edition, while support for Play Framework and Scala.js is available only in IntelliJ IDEA Ultimate.
+
+[ScalaTest™](https://www.scalatest.org) is the most flexible and most popular testing tool in the Scala ecosystem. With ScalaTest, you can test Scala, Scala.js (JavaScript), Scala Native, Dotty (Scala 3), and Java code. By offering deep integration with tools such as JUnit, TestNG, Ant, Maven, sbt, ScalaCheck, JMock, EasyMock, Mockito, ScalaMock, Selenium, Eclipse, NetBeans, and IntelliJ, ScalaTest makes it easy to take your testing to a higher, more productive level in new or existing Scala, Scala.js, or Java projects.
+
+[Dotty](https://github.com/lampepfl/dotty) is a platform to try out new language concepts and compiler technologies for Scala where the focus is mainly on simplification. It removes extraneous syntax (e.g. no XML literals), and try to boil down Scala's types into a smaller set of more fundamental constructors.
+
+[Metals](https://github.com/scalameta/metals) is a Scala language server with rich IDE features.
+
+[WartRemover](https://github.com/wartremover/wartremover) is a flexible Scala code linting tool.
+
+[Mill](https://github.com/com-lihaoyi/mill) is a shiny new Java/Scala build tool that removes the complexity that you may have with Maven or Gradle.
+
+[Bloop](https://github.com/scalacenter/bloop) is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.
+
+[Scapegoat](https://github.com/scapegoat-scala/scapegoat) is a Scala static code analyzer, what is more colloquially known as a code lint tool or linter. Scapegoat works in a similar vein to Java's [FindBugs](http://findbugs.sourceforge.net/) or [checkstyle](http://checkstyle.sourceforge.net/), or [Scala's Scalastyle](https://github.com/scalastyle/scalastyle).
+
 [Apache Spark](https://spark.apache.org/) is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.
 
 [Apache Spark Connector for SQL Server and Azure SQL](https://github.com/microsoft/sql-spark-connector) is a high-performance connector that enables you to use transactional data in big data analytics and persists results for ad-hoc queries or reporting. The connector allows you to use any SQL database, on-premises or in the cloud, as an input data source or output data sink for Spark jobs.
@@ -60,8 +86,6 @@
 [Eclipse Deeplearning4J (DL4J)](https://deeplearning4j.konduit.ai/) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.
 
 [Play Framework](https://github.com/playframework/playframework) is a web framework combines productivity and performance making it easy to build scalable web applications with Java and Scala. 
-
-[Dotty](https://github.com/lampepfl/dotty) is a research compiler that will become Scala 3.
 
 [AWScala](https://github.com/seratch/AWScala) is a tool that enables Scala developers to easily work with Amazon Web Services in the Scala way.
 
